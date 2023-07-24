@@ -50,7 +50,7 @@ const App =()=>{
             <Router>
                 <Routes>
                   
-                    <Route exact path = '/projectwork' element={<Login/>}></Route>
+                    <Route exact path = '/' element={<Login/>}></Route>
                     <Route exact path="/googlelogin" element={<Googlelogin/>}></Route>  
                     <Route exact path="/text" element={<Text/>}></Route>      
                     <Route exact path="/alluser" element={<Alluser/>}></Route>    
