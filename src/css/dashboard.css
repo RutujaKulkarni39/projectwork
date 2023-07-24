@@ -1,0 +1,176 @@
+
+
+
+*{
+
+    padding: 0;
+    margin: 0;
+    background: color #FFFFFF;
+    }
+    
+    
+    .heading_style
+    {
+     
+      font-size: 20px;
+      letter-spacing: 2px;
+      word-spacing: 5px;
+      font-weight: 500;
+      background-color: #FFFFFF;
+      font-size: 1.5rem;
+      font: bold;
+      font-style: oblique ;
+      
+      }
+    
+      
+    
+      .navbar
+      {
+        font-family:  'Times New Roman', Times, serif;
+        
+        font-size: 20px;
+        letter-spacing: 2px;
+        font-weight: 500;
+      
+        background-color: #FFFFFF;
+        font-size: 1rem;
+       
+     
+      
+      }
+    
+      body
+      {
+
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 20px;
+        font-weight: 300;
+        page-break-before: always;
+        background-color: #ffffff;
+        font-size: 1rem;
+        margin-bottom: 20px;
+ 
+        
+      }
+      img
+      {
+          box-shadow: 0px 13px 10px -7px (96, 104, 167, 0.1); 
+          width: 200px;
+          height: 200px;
+          border-radius: 100%;
+          border: 4px solid #FFFFFF(10, 67, 93);
+          object-fit:contain;
+          transition: all 0.4s cubic-bezier(0.175, 0.885, 0, 1);
+          background-color: #FFFFFF;
+          background-position: center;
+        
+        }
+       
+        a.nav-link
+        {
+          padding-left:1px ;
+          padding-bottom: 1px;
+          padding-right: 2px;
+          padding-top: 4px;
+        }
+      button{
+        color: #ffffff;
+        background-color: rgb(72, 72, 154);
+        
+     
+      }
+      button.button1{
+      border-radius: 0%;
+      height:60px;
+      background-color: rgb(117, 117, 172);
+      border-color: #FFFFFF;
+      }
+
+      button.button2{
+        border-radius: 0%;
+        height:60px;
+        background-color: rgb(159, 159, 200);
+        border-color: #FFFFFF;
+        }
+
+      button.button3{
+          border-radius: 0%;
+          height:60px;
+          background-color: rgb(101, 101, 129);
+          border-color: #FFFFFF;
+          }
+
+          button.button4{
+            border-radius: 0%;
+            height:60px;
+            background-color: rgb(130, 130, 150);
+            border-color: #FFFFFF;
+            }  
+            button.button5{
+              border-radius: 0%;
+              height:60px;
+              background-color: rgb(122, 122, 148);
+              border-color: #FFFFFF;
+              }
+              button.button6{
+                border-radius: 0%;
+                height:60px;
+                background-color: rgb(89, 89, 120);
+                border-color: #FFFFFF;
+                }
+                button.button7{
+                  border-radius: 0%;
+                  height:60px;
+                  background-color: rgb(109, 109, 133);
+                  border-color: #FFFFFF;
+                  }
+                  button.button8{
+                    border-radius: 0%;
+                    height:60px;
+                    background-color: rgb(111, 111, 133);
+                    border-color: #FFFFFF;
+                    }
+                    button.button9{
+                      border-radius: 0%;
+                      height:60px;
+                      background-color: rgb(97, 97, 121);
+                      border-color: #FFFFFF;
+                      }
+                      button.button10{
+                        border-radius: 0%;
+                        height:60px;
+                        background-color: rgb(110, 110, 138);
+                        border-color: #FFFFFF;
+                        }
+                        button.button11{
+                          border-radius: 0%;
+                          height:60px;
+                          background-color: rgb(159, 159, 179);
+                          border-color: #FFFFFF;
+                          }
+
+
+              button:hover
+              {
+                background-color: rgb(83, 83, 221);
+              }       
+              
+             .table1{
+                font-size:20px ;
+                font-family: 'Times New Roman', Times, serif;
+                color: #FFFFFF;
+            
+             }
+  
+             .table2{
+              font-size:25px ;
+              font-family: 'Times New Roman', Times, serif;
+              margin-left: 8%;
+              margin-right: 10%;
+             
+           }
+
+             
+             
+
